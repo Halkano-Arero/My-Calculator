@@ -1,0 +1,7 @@
+C:\Visual Studio Code\MY CALCULATOR\MY CALCULATOR\bin\Debug\MY CALCULATOR.exe.config
+C:\Visual Studio Code\MY CALCULATOR\MY CALCULATOR\bin\Debug\MY CALCULATOR.exe
+C:\Visual Studio Code\MY CALCULATOR\MY CALCULATOR\bin\Debug\MY CALCULATOR.pdb
+C:\Visual Studio Code\MY CALCULATOR\MY CALCULATOR\obj\Debug\MY CALCULATOR.csproj.AssemblyReference.cache
+C:\Visual Studio Code\MY CALCULATOR\MY CALCULATOR\obj\Debug\MY CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Visual Studio Code\MY CALCULATOR\MY CALCULATOR\obj\Debug\MY CALCULATOR.exe
+C:\Visual Studio Code\MY CALCULATOR\MY CALCULATOR\obj\Debug\MY CALCULATOR.pdb
